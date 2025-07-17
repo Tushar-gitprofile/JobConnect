@@ -1,11 +1,56 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI Tutorial 🔥🔥
-## https://www.youtube.com/watch?v=2XF-HgauItk
-![hirrd 1](https://github.com/user-attachments/assets/1da23b25-1f29-4402-be74-03685d9b732d)
+JobConnect 🚀
+A Full Stack Job Portal built with React JS, Tailwind CSS, Supabase, Clerk, and Shadcn UI.
 
-### Make sure to create a `.env` file with following variables -
+Technologies Used 🛠️
+⚛️ React JS
 
-```
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_CLERK_PUBLISHABLE_KEY=
-```
+🎨 Tailwind CSS
+
+🗄️ Supabase (backend & database)
+
+🔐 Clerk (authentication)
+
+🧩 Shadcn UI (UI components)
+
+About JobConnect 💡
+JobConnect is a modern job portal designed to connect job seekers with employers efficiently. It offers seamless user registration and login, job listings, and application management — all wrapped in a beautiful and responsive UI.
+
+Importance & Problem Solved 🎯
+Finding relevant jobs and managing applications can be overwhelming. JobConnect simplifies the job search process by providing a centralized platform where users can browse, apply, and track jobs with ease. It also helps employers post jobs and manage candidates, enhancing the recruitment experience.
+
+Getting Started ⚙️
+Follow these steps to run JobConnect on your local machine:
+
+Prerequisites 📋
+Node.js installed (v14+ recommended)
+
+Git installed
+
+A Supabase account (to create your backend)
+
+Clerk account (for authentication services)
+
+Setup Instructions 🧑‍💻
+
+Install dependencies
+
+npm install
+Configure environment variables
+Create a .env file in the root directory with the following:
+
+ini
+
+VITE_SUPABASE_URL=your-supabase-url
+VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+VITE_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
+Replace the placeholders with your actual Supabase and Clerk keys.
+
+Run the development server
+
+npm run dev
+Open in browser
+Go to 👉 http://localhost:3000 to view the app.
+
+Developer 👨‍💻
+Developed by Tushar
+GitHub: https://github.com/Tushar-gitprofile

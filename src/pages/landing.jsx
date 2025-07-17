@@ -27,7 +27,7 @@ const LandingPage = () => {
             <img
               src="/logo.png"
               className="h-14 sm:h-24 lg:h-32"
-              alt="Hirrd Logo"
+              alt="JobConnect Logo"
             />
           </span>
         </h1>
@@ -68,7 +68,7 @@ const LandingPage = () => {
         </CarouselContent>
       </Carousel>
 
-      <img src="/banner.jpeg" className="w-full" />
+      <img src="/banner.jpg" className="w-full" />
 
       <section className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Card>
