@@ -1,6 +1,8 @@
 JobConnect 🚀
 A Full Stack Job Portal built with React JS, Tailwind CSS, Supabase, Clerk, and Shadcn UI.
 
+demo:-https://jobconnect-3gxo.onrender.com 
+
 Technologies Used 🛠️
 ⚛️ React JS
 
@@ -38,7 +40,7 @@ npm install
 Configure environment variables
 Create a .env file in the root directory with the following:
 
-ini
+initialize:-
 
 VITE_SUPABASE_URL=your-supabase-url
 VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
